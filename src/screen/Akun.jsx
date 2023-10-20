@@ -8,7 +8,7 @@ export default class Akun extends Component {
             <View>
                 <Text style={styles.judul}>
                     <Text style={{color: 'cornflowerblue', fontStyle: 'normal', fontWeight: 'bold'}}>Hiii </Text>
-                    Badrus</Text>
+                    Sahrul</Text>
                 <TouchableOpacity 
                 onPress={() => this.props.navigation.navigate('Beranda')}>
                     <Text>Ke Beranda</Text>
